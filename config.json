@@ -1,0 +1,9 @@
+{
+	"ip":"SpoiderCraft.aternos.me",
+	"port": 11579,
+	"name": "bothumain",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 1 1",
+	"login-cmd":"/login 1"
+}
