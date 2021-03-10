@@ -1,6 +1,6 @@
 {
-	"ip":"SpoiderCraft.aternos.me",
-	"port": 11579,
+	"ip":"GamerzCrib.aternos.me",
+	"port": 25565,
 	"name": "bothumain",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
