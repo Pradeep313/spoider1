@@ -1,6 +1,6 @@
 {
 	"ip":"liveduniyaa.mc-srv.com",
-	"port": 35097,
+	"port": 25565,
 	"name": "LiveBot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
