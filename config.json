@@ -1,7 +1,7 @@
 {
-	"ip":"GamerzCrib.aternos.me",
+	"ip":"spoiderbotq",
 	"port": 25565,
-	"name": "bothumain",
+	"name": "Live Bot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 1 1",
