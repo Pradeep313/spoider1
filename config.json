@@ -1,5 +1,5 @@
 {
-	"ip":"live gamename.net",
+	"ip":"live.gamename.net",
 	"port":40182,
 	"name": "LiveBot",
 	"auto-night-skip":"false",
